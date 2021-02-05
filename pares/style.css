@@ -1,0 +1,120 @@
+body {
+    border-right: orange 3px solid;
+    border-left: orange 3px solid;
+    
+    
+}
+
+h1 {
+    text-align: center;
+    background-color: orange;
+    color: white;
+    padding: 1%;
+    font-family: 'Sriracha', cursive;
+    margin-top: -10px;
+}
+
+h2 {
+    font-family: sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    margin-top: -1.29em;
+    background-color: rgb(200, 247, 248);
+    padding-bottom: 1em;
+}
+
+ul.menu li {
+    display: inline;
+    border: black solid 1px;
+    margin: 0em 0.5em;
+    text-decoration: underline;
+    color: blue;
+}
+
+ul.listado_productos{
+    margin-left: 2em;
+    margin-top: 1em;
+    background-color: rgb(248, 219, 140);
+}
+
+ul.listado_productos li{
+    list-style-type: katakana;
+    
+}
+
+a:hover {
+    background-color: yellow;
+}
+
+#uno img {
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+
+#uno p{
+    border-top: blue solid 1.5em;
+    border-bottom: blue solid 1.5em;
+    text-align: justify;
+    color: blue;
+    font-size: 1.01em;
+    padding-right: 1em;
+
+}
+
+#dos img{
+    float: right;
+    height: 200px;
+    width: 200px;
+
+}
+
+#dos {
+    margin-top: 2em;
+    padding-top: 1.2em;
+    padding-bottom: 3.5em;
+    background-color: rgb(197, 235, 247);
+}
+
+#dos p{
+    border-top: red solid 1.5em;
+    border-bottom: red solid 1.5em;
+    color: red;
+}
+
+hr{
+    height: 2px;
+}
+
+#tres {
+    background-color: salmon;
+    padding-bottom: 1em;
+    margin-top: -0.5em;
+    border-bottom: orange 20px solid;
+}
+
+#tres p{
+    text-align: center;
+}
+
+#tres_uno {
+    background-color: salmon;
+    padding-bottom: 1em;
+    margin-top: -0.5em;
+    text-align: center;
+}
+
+
+#alt {
+    background-color: orange;
+    margin-top: -1.5em;
+    padding-top: 0.75em;
+    padding-bottom: 0.1em;
+    
+}
+
+span {
+    background-color: yellow;
+}
